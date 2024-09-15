@@ -1,9 +1,9 @@
 # HackMty2024_FisMat_RetoSoftek
 
 Integrantes:
-Sebastián Zaragoza Díaz
-Cedrick Patricio Treviño Ortiz
-Daniel Eugenio González Limas
-Francisco Javier Llanas Domínguez
+/nSebastián Zaragoza Díaz
+/nCedrick Patricio Treviño Ortiz
+/nDaniel Eugenio González Limas
+/nFrancisco Javier Llanas Domínguez
 
 # Propuesta:
