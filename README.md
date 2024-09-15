@@ -15,6 +15,8 @@ Se hizo uso de la inteligencia artifical proporcionada por Softtek, Frida AI, ad
 Como objetivo, la IA debe procesar automáticamente las facturas enviadas por los proveedores de materiales, servicios y contratistas, identificando categorías clave como montos pagados, fechas de vencimiento, identificación del proveedor y detalles del proyecto de construcción. Además, debe generar recomendaciones sobre la optimización de pagos, gestión del flujo de caja y posibles mejoras en las relaciones con proveedores basándose en la información extraída.
 
 # Pasos a seguir.
+Para poder obtener el texto de la imagen:
 1. Clonar el repositorio de manera local al usuario que desee revisar el contenido. (No omitir archivos ya que muchos son dependientes de los otros).
 2. Abrir el archivo _. Cuando se esté corriendo, hará uso de el archivo _.
 3. 
+Para conectar el texto obtenido con...
