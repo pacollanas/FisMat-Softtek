@@ -2,7 +2,7 @@
 
 Integrantes: Sebastián Zaragoza Díaz, Cedrick Patricio Treviño Ortiz, Daniel Eugenio González Limas, Francisco Javier Llanas Domínguez.
 
-# Propuesta: Análisis de facturas
+# Propuesta: Automatización de cuentas por pagar en la industria de la construcción.
 Descripción del proyecto.
 
 # Herramientas utilizadas
