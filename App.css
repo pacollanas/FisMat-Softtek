@@ -1,0 +1,142 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #1e1e1e;
+  /* Fondo oscuro */
+  color: #f4f4f9;
+  /* Texto claro */
+  display: flex;
+  justify-content: center;
+  /* Centrar horizontalmente */
+  align-items: center;
+  /* Centrar verticalmente */
+  min-height: 100vh;
+  margin: 0;
+}
+
+.container {
+  background-color: #2c2c2c;
+  /* Fondo más oscuro */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  max-width: 800px;
+  /* Ampliar el contenedor */
+  width: 100%;
+  /* Ocupar el 100% del espacio disponible */
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 20px;
+  font-size: 22px;
+  /* Ajustar el tamaño de fuente */
+  font-weight: bold;
+  color: #f4f4f9;
+  /* Color de texto */
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.file-input {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 2px solid #444;
+  border-radius: 5px;
+  font-size: 14px;
+  background-color: #333;
+  color: #f4f4f9;
+}
+
+.submit-button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.submit-button:hover {
+  background-color: #0056b3;
+}
+
+.submit-button:disabled {
+  background-color: #555;
+  cursor: not-allowed;
+}
+
+.reset-button {
+  padding: 10px 20px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.reset-button:hover {
+  background-color: #218838;
+}
+
+.result-container {
+  margin-top: 20px;
+  text-align: left;
+  display: flex;
+  justify-content: center;
+}
+
+.result-text {
+  font-size: 14px;
+  color: #ddd;
+  background-color: #3c3c3c;
+  padding: 20px;
+  border-radius: 10px;
+  border: 1px solid #444;
+  max-width: 100%;
+  /* Limitar el ancho al contenedor */
+  width: 100%;
+  max-height: 300px;
+  /* Limitar la altura máxima para evitar que se extienda mucho verticalmente */
+  overflow-y: auto;
+  /* Habilitar el scroll si el texto excede la altura máxima */
+  word-wrap: break-word;
+  /* Asegurar que las palabras largas se dividan correctamente */
+}
+
+.result-text h2 {
+  color: #f4f4f9;
+  margin-top: 10px;
+}
+
+.result-text p {
+  margin-bottom: 15px;
+  /* Espacio entre párrafos */
+}
+
+.result-text strong {
+  color: #f4f4f9;
+}
+
+.result-text ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+.result-text li {
+  margin-bottom: 5px;
+}
