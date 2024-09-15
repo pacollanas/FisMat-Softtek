@@ -1,5 +1,5 @@
-# HackMty2024_FisMat_RetoSoftek
+# FisMat-Softtek
 
 Integrantes: Sebastián Zaragoza Díaz, Cedrick Patricio Treviño Ortiz, Daniel Eugenio González Limas, Francisco Javier Llanas Domínguez.
 
-# Propuesta:
+# Propuesta: Análisis de facturas
