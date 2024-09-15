@@ -36,7 +36,7 @@ async def upload_image(file: UploadFile = File(...)):
                 messages=[
                 {"role": "system", "content": "You are an AI financial advisor specialized in the construction industry. Your task is to automate the analysis of accounts payable by classifying the following data and generating actionable financial recommendations."},
                 {"role": "user", "content": f"Generate a detailed financial report analyzing the following data. Include insights on the financial health and provide actionable recommendations for improving financial management based on the extracted information:\n\n{text}"},
-            ],max_tokens=500, stream=False
+            ],max_tokens=800, stream=False
             )
             return response.choices[0].message.content
         
