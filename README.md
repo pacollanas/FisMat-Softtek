@@ -1,6 +1,7 @@
 # FisMat-Softtek
 
 Integrantes: Sebastián Zaragoza Díaz, Cedrick Patricio Treviño Ortiz, Daniel Eugenio González Limas, Francisco Javier Llanas Domínguez.
+Reto para HACKMTY 2024.
 
 # Propuesta: Automatización de cuentas por pagar en la industria de la construcción.
 Este proyecto tiene como objetivo desarrollar una solución automatizada que combine inteligencia artificial generativa (IA GenIA) y visión por computadora para optimizar el proceso de cuentas por pagar en la industria de la construcción. A través de la extracción automática de texto a partir de facturas escaneadas y su posterior clasificación y análisis, la herramienta ofrecerá a las empresas constructoras una forma de gestionar y optimizar su flujo de caja, mejorando la toma de decisiones financieras y reduciendo el tiempo necesario para la gestión de pagos.
